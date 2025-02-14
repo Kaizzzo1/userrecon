@@ -1,6 +1,5 @@
 # UserRecon v1.0
-# Author: @thelinuxchoice
-# https://github.com/thelinuxchoice/userrecon
+
 
 # Some of "Found!" result is wrong/incorrect
 Edit "grep -o 'sometexthere' ; echo $?" to fix the problem
@@ -49,6 +48,6 @@ $ git clone https://github.com/wishihab/userrecon.git
 
 $ cd userrecon
 
-$ ./userrecon.sh
+$ bash userrecon.sh or ./userrecon.sh
 
 ### This tool has been tested in many os like parrot os , kali linux ,ubuntu os all of them works perfectly fine  !

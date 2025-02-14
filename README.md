@@ -4,7 +4,7 @@
 
 $ sudo apt update && apt upgrade
 
-$ git clone https://github.com/wishihab/userrecon.git
+$ git clone https://github.com/Kaizzzo1/userrecon.git
 
 $ cd userrecon
 
